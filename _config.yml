@@ -8,15 +8,13 @@ description: Matthew Solomon Moroney
 username: Matthew Solomon Moroney
 user_description: I am a second year Masters of Environmental student open to employment opportunities, new ventures, and collaborations. My work uses data to mobilize green venture capital to accelerate the transition to a decarbonized, less toxic, and just society. I do this by connecting systems thinking, the circular economy, and data-driven decision making. I excel at encouraging dialogue between disciplines. I can connect with activists, the boardroom, and most everyone between. Everyone is trying their best to build a better life and deserves respect. We have an immense risk and an even larger opportunity. Let's get to work.
 
-user_title: Software Developer
+user_title: Environmental Management through Data and Creativity
 email: matthew.moroney@yale.edu
 twitter_username: nourishideas
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-linkedin_username: 
+github_username:  greenisagoodcolor
 
 # Google-analytics
 google-analytics:
   id: ""
-
+ 
 exclude: ['package.json', 'src' , 'node_modules']
